@@ -1,7 +1,7 @@
 setwd("C:/r_data")
 Sys.setlocale('LC_ALL', 'Korea')
 
-install.packages("lubridate")   # 버전 업뎃하면서 없어져서 다시 씀씀
+install.packages("lubridate")   # 버전 업뎃하면서 없어져서 다시 씀
 library(lubridate)
 
 
